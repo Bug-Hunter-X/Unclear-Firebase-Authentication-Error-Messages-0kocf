@@ -1,0 +1,1 @@
+The Firebase Authentication SDK might throw an error if you attempt to sign in with an invalid credential, such as an incorrect email or password.  The error messages aren't always descriptive, making debugging difficult. For instance, a network issue might manifest as a generic authentication failure.
