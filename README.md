@@ -1,0 +1,1 @@
+This example demonstrates an issue with Firebase Authentication where error messages aren't specific enough to easily diagnose the root cause. The solution adds more robust error handling to differentiate between user input problems and network or backend errors.
